@@ -1,2 +1,4 @@
 # my_course_Repository
-Coursera activity
+
+# edited the file
+Guided Coursera activity
